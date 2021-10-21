@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AmarantBCL
 - 👀 I’m interested in coding, programming, modding, English language
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on game projects, desktop applications
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Java, C#
+- 💞️ I’m looking to collaborate on game projects, desktop applications and hopefully in the near future mobile apps
+- 📫 *****
 
 <!---
 AmarantBCL/AmarantBCL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
